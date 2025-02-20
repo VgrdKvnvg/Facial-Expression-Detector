@@ -1,2 +1,2 @@
-# Modern-Artificial-Intelligence-Masterclass-Build-6-Projects
-Modern Artificial Intelligence Masterclass: Build 6 Projects
+# Facial Expression Detector
+My code will recognise the facial expression of people in pictures
